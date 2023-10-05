@@ -1,5 +1,6 @@
 import time
 
+# gdfgdfgdfgg
 # 设置专注时间（以分钟为单位）
 focus_time = 25 
 
